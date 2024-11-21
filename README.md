@@ -21,5 +21,6 @@ user interface:
 
 I have added some screenshot of the assignment in this github. I write the code in XCODE version 12.1.1 which supports ipod 9th gen emulator.
 
+Design:
 ![Screenshot 2024-11-19 at 3 50 04 PM](https://github.com/user-attachments/assets/33319940-3173-4ae2-9293-47b648d5a74e)
-<img src="https://github.com/user-attachments/assets/33319940-3173-4ae2-9293-47b648d5a74e" alt="image">
+
