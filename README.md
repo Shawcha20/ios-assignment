@@ -44,4 +44,4 @@ Design:
 
 
 The images given above shows the structure and the components of the app. 
-XCode version 12.1.1 is used for building this assignmen which is a little old for ios development. But still it can handle basic apps in ios.
+XCode version 12.1.1 is used for building this assignment which is a little old for ios development. But still it can handle basic apps in ios.
