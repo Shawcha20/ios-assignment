@@ -22,12 +22,26 @@ user interface:
 I have added some screenshot of the assignment in this github. I write the code in XCODE version 12.1.1 which supports ipod 9th gen emulator.
 
 Design:
-This is the ui of the game:
 ![Simulator Screen Shot - iPod touch (7th generation) - 2024-11-19 at 15 48 50](https://github.com/user-attachments/assets/c02a722c-4272-424e-8d05-ccf1b986718b)
-
 ![Screenshot 2024-11-19 at 3 50 04 PM](https://github.com/user-attachments/assets/33319940-3173-4ae2-9293-47b648d5a74e)
-
 ![Screenshot 2024-11-19 at 3 51 09 PM](https://github.com/user-attachments/assets/6fb724d9-d9f7-4e81-a607-8432e7377059)
 ![Screenshot 2024-11-19 at 3 52 16 PM](https://github.com/user-attachments/assets/094a7ace-5d2a-4a89-ba34-3c056df9be5a)
 ![Screenshot 2024-11-19 at 3 53 15 PM](https://github.com/user-attachments/assets/835cb8de-129b-4029-9a04-009c483437cf)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The images given above shows the structure and the components of the app. 
+XCode version 12.1.1 is used for building this assignmen which is a little old for ios development. But still it can handle basic apps in ios.
